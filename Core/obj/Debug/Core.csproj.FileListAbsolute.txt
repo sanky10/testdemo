@@ -1,0 +1,6 @@
+C:\Users\gedelan\Desktop\Prodinner\Core\bin\Debug\Omu.ProDinner.Core.dll
+C:\Users\gedelan\Desktop\Prodinner\Core\bin\Debug\Omu.ProDinner.Core.pdb
+C:\Users\gedelan\Desktop\Prodinner\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\gedelan\Desktop\Prodinner\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\gedelan\Desktop\Prodinner\Core\obj\Debug\Omu.ProDinner.Core.dll
+C:\Users\gedelan\Desktop\Prodinner\Core\obj\Debug\Omu.ProDinner.Core.pdb

@@ -1,0 +1,14 @@
+C:\Users\gedelan\Desktop\Prodinner\Service\bin\Debug\Omu.ProDinner.Service.dll
+C:\Users\gedelan\Desktop\Prodinner\Service\bin\Debug\Omu.ProDinner.Service.pdb
+C:\Users\gedelan\Desktop\Prodinner\Service\bin\Debug\Omu.Drawing.dll
+C:\Users\gedelan\Desktop\Prodinner\Service\bin\Debug\Omu.Encrypto.dll
+C:\Users\gedelan\Desktop\Prodinner\Service\bin\Debug\Omu.ProDinner.Core.dll
+C:\Users\gedelan\Desktop\Prodinner\Service\bin\Debug\Omu.ValueInjecter.dll
+C:\Users\gedelan\Desktop\Prodinner\Service\bin\Debug\Omu.ProDinner.Core.pdb
+C:\Users\gedelan\Desktop\Prodinner\Service\bin\Debug\Omu.Drawing.pdb
+C:\Users\gedelan\Desktop\Prodinner\Service\bin\Debug\Omu.ValueInjecter.xml
+C:\Users\gedelan\Desktop\Prodinner\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\gedelan\Desktop\Prodinner\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\gedelan\Desktop\Prodinner\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\gedelan\Desktop\Prodinner\Service\obj\Debug\Omu.ProDinner.Service.dll
+C:\Users\gedelan\Desktop\Prodinner\Service\obj\Debug\Omu.ProDinner.Service.pdb
